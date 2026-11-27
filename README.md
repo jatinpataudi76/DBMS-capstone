@@ -1,6 +1,6 @@
 # 📚 Library Management System — DBMS Capstone Project
 
-**Student:** MD SHAHJAD (2501010169) · **Course:** Database Management System (ETCCMS304), Units 1–4
+**Student:** Jatin kumar (2501010116) · **Course:** Database Management System (ETCCMS304), Units 1–4
 **Tech:** HTML + CSS + JavaScript (frontend) · Node.js + Express (backend) · MongoDB + Mongoose (database)
 
 ---
